@@ -1,6 +1,6 @@
 ﻿fodrász_id;műszak_id;keresztnév;vezetéknév;telefonszám;email;születési_dátum;nem
-1;2;Gábor;Kovács;6201234567;gabor.kovacs@gmail.com;1985.03.12;F
-2;3;Ágnes;Nagy;6302345678;agnes.nagy@yahoo.com;1990.08.25;N
-3;3;Tamás;Tóth;6703456789;tamas.toth@hotmail.com;1982.11.17;F
-4;1;Katalin;Szabó;6204567890;katalin.szabo@gmail.com;1978.06.30;N
-5;3;Eszter;Kiss;6706789012;eszter.kiss@yahoo.com;1995.09.03;N
+1;2;Gábor;Kovács;06201234567;gabor.kovacs@gmail.com;1985.03.12;F
+2;3;Ágnes;Nagy;06302345678;agnes.nagy@yahoo.com;1990.08.25;N
+3;3;Tamás;Tóth;06703456789;tamas.toth@hotmail.com;1982.11.17;F
+4;1;Katalin;Szabó;06204567890;katalin.szabo@gmail.com;1978.06.30;N
+5;3;Eszter;Kiss;06706789012;eszter.kiss@yahoo.com;1995.09.03;N
