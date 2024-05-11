@@ -1,4 +1,4 @@
-﻿szolgáltatás_azonosító;szolgáltatás_neve;ár_Ft;időtartam_perc
+﻿szolgáltatás_id;szolgáltatás_neve;ár_Ft;időtartam_perc
 1;Női hajvágás;6000;60
 2;Szőkítés;15000;120
 3;Férfi hajvágás;5500;40

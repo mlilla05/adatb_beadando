@@ -1,21 +1,26 @@
-﻿ügyfél_azonosító;keresztnév;vezetéknév;email;telefonszám;város;kerület;kerület_megnevezés;irányítószám;utcanév;házszám;nem
-1;János;Kovács;janos.kovacs@gmail.com;6201234567;Budapest;V;Belváros-Lipótváros;1051;Kossuth utca;12;F
-2;Bence;Nagy;bence.nagy@hotmail.com;6302345678;Budapest;XI;Újbuda;1111;Széchenyi tér;8;F
-3;Éva;Tóth;eva.toth@gmail.com;6703456789;Budapest;XIV;Zugló;1141;Kálvária sugárút;23;N
-4;Anna;Szabó;anna.szabo@yahoo.com;6204567890;Budapest;II;Rózsadomb;1024;Szent István tér;5;N
-5;Tamás;Horváth;tamas.horvath@gmail.com;6305678901;Budapest;XIV;Zugló;1141;Kossuth utca;14;F
-6;Liliána;Kiss;liliana.kiss@gmail.com;6706789012;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Bajcsy-Zsilinszky út;3;N
-7;Zsuzsanna;Kovács;zsuzsanna.kovacs@gmail.com;6207890123;Budapest;IX;Ferencváros;1091;Rákóczi út;9;N
-8;Ferenc;Lakatos;ferenc.lakatos@gmail.com;6308901234;Budapest;VI;Terézváros;1061;Ady Endre út;16;F
-9;László;Simon;laszlo.simon@yahoo.com;6709012345;Budapest;VII;Erzsébetváros;1071;Bajcsy-Zsilinszky út;21;F
-10;Judit;Varga;judit.varga@hotmail.com;6200123456;Budapest;XV;Rákospalota-Pestújhely-Újpalota;1151;Kossuth út;7;N
-11;Balázs;Farkas;balazs.farkas@yahoo.com;6301234567;Budapest;VIII;Józsefváros;1081;Petőfi tér;14;F
-12;Krisztina;Török;krisztina.torok@yahoo.com;6702345678;Budapest;XVII;Rákosmente;1171;Bajcsy-Zsilinszky út;19;N
-13;Gábor;Szűcs;gabor.szucs@gmail.com;6203456789;Budapest;VI;Terézváros;1061;Kossuth Lajos utca;4;F
-14;Gabriella;Papp;gabriella.papp@yahoo.com;6304567890;Budapest;XIV;Zugló;1141;Dózsa György út;11;N
-15;Zoltán;Molnár;zoltan.molnar@hotmail.com;6705678901;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Rákóczi út;6;F
-16;Andrea;Kovács;andrea.kovacs@yahoo.com;6206789012;Budapest;XI;Újbuda;1111;Széchenyi tér;5;N
-17;Tamás;Szabó;tamas.szabo@gmail.com;6307890123;Budapest;II;Rózsadomb;1024;Szent István tér;8;F
-18;Katalin;Horváth;katalin.horvath@yahoo.com;6708901234;Budapest;XVIII;Pestszentlőrinc-Pestszentimre;1181;Alkotmány utca;15;N
-19;Dávid;Kiss;david.kiss@hotmail.com;6209012345;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Bajcsy-Zsilinszky út;18;F
-20;Eszter;Kovács;eszter.kovacs@yahoo.com;6700123456;Budapest;VII;Erzsébetváros;1071;Kossuth Lajos utca;17;N
+﻿ügyfél_id;keresztnév;vezetéknév;email;telefonszám;város;kerület;kerület_megnevezés;irányítószám;utcanév;házszám;nem
+1;János;Kovács;janos.kovacs@gmail.com;06201234567;Budapest;V;Belváros-Lipótváros;1051;Kossuth utca;12;F
+2;Bence;Nagy;bence.nagy@hotmail.com;06302345678;Budapest;XI;Újbuda;1111;Széchenyi tér;8;F
+3;Éva;Tóth;eva.toth@gmail.com;06703456789;Budapest;XIV;Zugló;1141;Kálvária sugárút;23;N
+4;Anna;Szabó;anna.szabo@yahoo.com;06204567890;Budapest;II;Rózsadomb;1024;Szent István tér;5;N
+5;Tamás;Horváth;tamas.horvath@gmail.com;06305678901;Budapest;XIV;Zugló;1141;Kossuth utca;14;F
+6;Liliána;Kiss;liliana.kiss@gmail.com;06706789012;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Bajcsy-Zsilinszky út;3;N
+7;Zsuzsanna;Kovács;zsuzsanna.kovacs@gmail.com;06207890123;Budapest;IX;Ferencváros;1091;Rákóczi út;9;N
+8;Ferenc;Lakatos;ferenc.lakatos@gmail.com;06308901234;Budapest;VI;Terézváros;1061;Ady Endre út;16;F
+9;László;Simon;laszlo.simon@yahoo.com;06709012345;Budapest;VII;Erzsébetváros;1071;Bajcsy-Zsilinszky út;21;F
+10;Judit;Varga;judit.varga@hotmail.com;06200123456;Budapest;XV;Rákospalota-Pestújhely-Újpalota;1151;Kossuth út;7;N
+11;Balázs;Farkas;balazs.farkas@yahoo.com;06301234567;Budapest;VIII;Józsefváros;1081;Petőfi tér;14;F
+12;Krisztina;Török;krisztina.torok@yahoo.com;06702345678;Budapest;XVII;Rákosmente;1171;Bajcsy-Zsilinszky út;19;N
+13;Gábor;Szűcs;gabor.szucs@gmail.com;06203456789;Budapest;VI;Terézváros;1061;Kossuth Lajos utca;4;F
+14;Gabriella;Papp;gabriella.papp@yahoo.com;06304567890;Budapest;XIV;Zugló;1141;Dózsa György út;11;N
+15;Zoltán;Molnár;zoltan.molnar@hotmail.com;06705678901;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Rákóczi út;6;F
+16;Andrea;Kovács;andrea.kovacs@yahoo.com;06206789012;Budapest;XI;Újbuda;1111;Széchenyi tér;5;N
+17;Tamás;Szabó;tamas.szabo@gmail.com;06307890123;Budapest;II;Rózsadomb;1024;Szent István tér;8;F
+18;Katalin;Horváth;katalin.horvath@yahoo.com;06708901234;Budapest;XVIII;Pestszentlőrinc-Pestszentimre;1181;Alkotmány utca;15;N
+19;Dávid;Kiss;david.kiss@hotmail.com;06209012345;Budapest;XIII;Angyalföld-Újlipótváros-Vizafogó;1131;Bajcsy-Zsilinszky út;18;F
+20;Eszter;Kovács;eszter.kovacs@yahoo.com;06700123456;Budapest;VII;Erzsébetváros;1071;Kossuth Lajos utca;17;N
+21;Kinga;Magyar;kinga.magyar@gmail.com;06709982134;Budapest;XIII;Újlipótváros;1132;Árpád fejedelem út;10;N
+22;Mária;Varga;maria.varga@gmail.com;06203415743;Budapest;XIX;Kispest;1191;Bartók Béla út;3;N
+23;Lilien;Fehér;lilien.feher@yahoo.com;06301234923;Budapest;XVII;Rákosmente;1172;Dózsa György út;20;N
+24;Lea;Mészáros;lea.meszaros@gmail.com;06202244321;Budapest;VIII;Józsefváros;1081;Kerepesi út;5;N
+25;Hanna;Tóth;hanna.toth@yahoo.com;06308763219;Budapest;XIV;Zugló;1142;Thököly út;15;N
