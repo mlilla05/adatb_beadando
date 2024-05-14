@@ -1,4 +1,4 @@
-SELECT sz.szolgáltatás_neve AS 'Szolgáltatás neve'
-FROM szolgaltatas sz LEFT JOIN foglalas f ON sz.szolgáltatás_id = f.szolgáltatás_id
-WHERE f.szolgáltatás_id IS NULL 
+SELECT sz.szolgaltatas_neve AS 'Szolgáltatás neve'
+FROM szolgaltatas sz LEFT JOIN foglalas f ON sz.szolgaltatas_ID = f.szolgaltatas_ID
+WHERE f.szolgaltatas_ID IS NULL 
 
