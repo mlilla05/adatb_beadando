@@ -1,4 +1,4 @@
-﻿ügyfél_id;keresztnév;vezetéknév;email;telefonszám;város;kerület;kerület_megnevezés;irányítószám;utcanév;házszám;nem
+ugyfel_ID;keresztnev;vezeteknev;email;telefonszam;varos;kerulet;kerulet_megnevezes;iranyitoszam;utcanev;hazszam;nem
 1;János;Kovács;janos.kovacs@gmail.com;06201234567;Budapest;V;Belváros-Lipótváros;1051;Kossuth utca;12;F
 2;Bence;Nagy;bence.nagy@hotmail.com;06302345678;Budapest;XI;Újbuda;1111;Széchenyi tér;8;F
 3;Éva;Tóth;eva.toth@gmail.com;06703456789;Budapest;XIV;Zugló;1141;Kálvária sugárút;23;N
